@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...--->
+- ⚡ Fun fact: ...---> 
 
-- <h1 align="center">Hi 👋, I'm @ylanaleal</h1>
+<h1 align="center">Hi 👋, I'm @ylanaleal</h1>
 <h3 align="center">A Full-Stack Software Developer from Brazil 💻</h3>
 
 - 🔭 I’m currently working on [Yellow Pages](https://github.com/fmchaim/paginasamarelas)
