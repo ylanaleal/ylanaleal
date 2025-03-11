@@ -27,5 +27,4 @@ I'm a software developer based in **Brazil** with a strong interest in full-stac
 ## ☎️ Connect with Me 
 
 - [LinkedIn](https://www.linkedin.com/in/ylanaleal/)
-- [GitHub](https://github.com/ylanaleal)
 - [ylanalmo@gmail.com](mailto:ylanalmo@gmail.com)
