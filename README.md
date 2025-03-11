@@ -1,30 +1,31 @@
-<!---- 👋 Hi, I’m @ylanaleal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...---> 
+## Hello, I'm Ylana Leal! 🚀
 
-<h1 align="center">Hi 👋, I'm Ylana</h1>
-<h3 align="center">A Full-Stack Software Developer from Brazil 💻</h3>
+I'm a passionate **Software Developer** and **Full Stack** enthusiast, dedicated to crafting efficient and innovative solutions. Let's build something amazing together!
 
-<!----- 🔭 I’m currently working on [Yellow Pages](https://github.com/fmchaim/paginasamarelas)
+## About Me 🐈
 
-- 🌱 I’m currently learning and improving my skills on **Ruby on Rails, Javascript, Node.js, Express, HTML, CSS and React**--->
+I'm a software developer based in **Brazil** with a strong interest in full-stack development. I have experience working on various projects and I enjoy learning new technologies and continuously improving my skills.
 
-- 📫 How to reach me **ylanalmo@gmail.com**
+## Skills & Technologies 💻
 
-- 💼 Connect with me  <a href="https://linkedin.com/in/ylana-leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ylana-leal" height="20" width="20" /></a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ruby&perline=8" height="40" alt="ruby logo" />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=rails&perline=8" height="40" alt="rails logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react&perline=8" height="40" alt="react logo" />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js&perline=8" height="40" alt="javascript logo" />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html&perline=8" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css&perline=8" height="40" alt="css logo" />
+</div>
 
+###
 
-<!--- <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> --->
+## Connect with Me ☎️
 
-<!---<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylanaleal&show_icons=true&locale=en&layout=compact" alt="ylanaleal" /></p>
-
-
-ylanaleal/ylanaleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LinkedIn](https://www.linkedin.com/in/ylanaleal/)
+- [GitHub](https://github.com/ylanaleal)
+- [ylanalmo@gmail.com](mailto:ylanalmo@gmail.com)
