@@ -2,11 +2,11 @@
 
 I'm a passionate **Software Developer** and **Full Stack** enthusiast, dedicated to crafting efficient and innovative solutions. Let's build something amazing together!
 
-## About Me 🐈
+## 🐈 About Me 
 
 I'm a software developer based in **Brazil** with a strong interest in full-stack development. I have experience working on various projects and I enjoy learning new technologies and continuously improving my skills.
 
-## Skills & Technologies 💻
+## 💻 Skills & Technologies 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ruby&perline=8" height="40" alt="ruby logo" />
@@ -24,7 +24,7 @@ I'm a software developer based in **Brazil** with a strong interest in full-stac
 
 ###
 
-## Connect with Me ☎️
+## ☎️ Connect with Me 
 
 - [LinkedIn](https://www.linkedin.com/in/ylanaleal/)
 - [GitHub](https://github.com/ylanaleal)
